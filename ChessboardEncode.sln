@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessboardEncode", "ChessboardEncode\ChessboardEncode.csproj", "{6C8870EB-EAC8-403C-AC8E-AB3A296D61EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessboardEncode.Test", "ChessboardEncode.Test\ChessboardEncode.Test.csproj", "{FC1BCE82-C2B9-4808-8A01-CCB0B3B90751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8870EB-EAC8-403C-AC8E-AB3A296D61EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8870EB-EAC8-403C-AC8E-AB3A296D61EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8870EB-EAC8-403C-AC8E-AB3A296D61EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8870EB-EAC8-403C-AC8E-AB3A296D61EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1BCE82-C2B9-4808-8A01-CCB0B3B90751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1BCE82-C2B9-4808-8A01-CCB0B3B90751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1BCE82-C2B9-4808-8A01-CCB0B3B90751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1BCE82-C2B9-4808-8A01-CCB0B3B90751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
